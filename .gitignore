@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+.idea/
+.rasa/
+models/
+results/
 # Distribution / packaging
 .Python
 build/
